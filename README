@@ -1,0 +1,5 @@
+Ruby module to add Rank to self-balancing tree data structures (avl tree, red-black tree, etc.)
+
+To use, reopen your Node class and "prepend rank".
+
+The logic is an implementation of the algorithms described in Introduction To Algorithms 3rd edition, Cormen, Leiserson, Rivest, and Stein, Chapter 14.
